@@ -29,9 +29,17 @@ systemctl restart docker
 ```
 docker login -u admin http://172.16.0.62:8083
 docker tag devopsschool  172.16.0.62:8083/devopsschool:latest
-docker push   172.16.0.62:8083/devopsschool:latest
+docker push 172.16.0.62:8083/devopsschool:latest
 ```
 
+
+## Pulling Image
+
+```
+docker login -u admin http://172.16.0.62:8083
+docker pull 172.16.0.62:8083/devopsschool:latest
+
+```
 
 
 
