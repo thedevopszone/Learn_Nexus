@@ -67,6 +67,14 @@ pip install -r requirements.txt
 
 ## Nexus Repo
 
+Create the Repo in Nexus like this:
+
+![Nexus configuration](pics/Bildschirmfoto 2025-07-11 um 10.21.39.png)
+![Nexus configuration](pics/Bildschirmfoto 2025-07-11 um 10.21.59.png)
+![Nexus configuration](pics/Bildschirmfoto 2025-07-11 um 10.22.12.png)
+![Nexus configuration](pics/Bildschirmfoto 2025-07-11 um 10.22.26.png)
+
+
 
 
 
